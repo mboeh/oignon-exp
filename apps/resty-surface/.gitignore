@@ -1,0 +1,4 @@
+.*.sw?
+logs/
+nginx.conf.compiled
+*.lua
